@@ -1,4 +1,4 @@
-# 👨‍💻 Ian - Explorando o Mundo da Computação
+# 👨‍💻 Ian - Programaçãoo e tecnologia
 
 ## 🚀 Sobre Mim
 Sou um estudante de Ciência da Computação apaixonado por tecnologia, inovação e aprendizado contínuo. Atualmente, estou focado em desenvolver minhas habilidades para criar soluções que impactam positivamente pessoas e empresas. 
@@ -30,9 +30,8 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia, inovaç�
 - 📱 **Flutter** - Desenvolvimento de aplicativos multiplataforma com interfaces modernas.
 ---
 
--
 
 ## 📌 Conecte-se comigo
-- 💼 [LinkedIn](#https://www.linkedin.com/in/ian-vitor-473743294/)
-- 📂 [GitHub](#https://github.com/Ian21323)
+- 💼 [LinkedIn]: https://www.linkedin.com/in/ian-vitor-473743294/
+- 📂 [GitHub]: https://github.com/Ian21323
 - ✉️ Contato: ianv7623@gmail.com
