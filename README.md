@@ -35,3 +35,9 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia, inovaç�
 - 💼 [LinkedIn]: https://www.linkedin.com/in/ian-vitor-473743294/
 - 📂 [GitHub]: https://github.com/Ian21323
 - ✉️ Contato: ianv7623@gmail.com
+
+<div>
+<a href="https://beacon.si/safaballerini">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian21323&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=16&theme=dark"/>
+</div>
