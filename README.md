@@ -16,3 +16,5 @@
 - 💼 [LinkedIn]: https://www.linkedin.com/in/ian-vitor-473743294/
 - 📂 [GitHub]: https://github.com/Ian21323
 - ✉️ Contato: ianv7623@gmail.com
+
+![Snake animation](https://github.com/ian21323/ian21323/blob/main/dist/github-contribution-grid-snake.svg)
