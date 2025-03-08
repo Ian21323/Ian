@@ -1,13 +1,6 @@
-# 👨‍💻 Ian - Programaçãoo e tecnologia
+### 📚 O que estou aprendendo cada dia mais
 
-## 🚀 Sobre Mim
-Sou um estudante de Ciência da Computação apaixonado por tecnologia, inovação e aprendizado contínuo. Atualmente, estou focado em desenvolver minhas habilidades para criar soluções que impactam positivamente pessoas e empresas. 
-
----
-
-## 📚 O que estou aprendendo cada dia mais
-
-### 🔹 Linguagens de Programação
+#### 🔹 Linguagens de Programação
 - 🐍 **Python** - Desenvolvimento de aplicações, análise de dados e aprendizado de máquina.
 - 🔷 **Dart/Flutter** - Desenvolvimento de aplicativos mobile.
 - 🎮 **GDScript (Godot Engine)** - Criação de jogos e desenvolvimento de mecânicas interativas.
